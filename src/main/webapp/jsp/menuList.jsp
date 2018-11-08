@@ -82,7 +82,7 @@
 						<ul class="breadcrumb">
 							<li>
 								<i class="icon-dashboard"></i>
-								<a href="#">颜廷卓Kevin的主菜单</a>
+								<a href="#">颜廷卓昆山的主菜单</a>
 							</li>
 						</ul><!-- .breadcrumb -->
 
